@@ -42,7 +42,3 @@ Add Dark Mode
 Add filters (All / Completed / Pending)
 
 Add due dates or categories
-
-📧 your.email@example.com
-
-🌐 Your Portfolio or LinkedIn
