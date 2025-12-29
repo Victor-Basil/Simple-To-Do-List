@@ -1,4 +1,5 @@
- THIS IS A SIMPLE TO-DO LIST APP
+ THIS IS A SIMPLE TO-DO LIST APP 
+ 
 A clean, beginner-friendly To-Do List web app built using HTML, CSS, and JavaScript.
 It lets you easily add, complete, and delete daily tasks all right in your browser!
 
