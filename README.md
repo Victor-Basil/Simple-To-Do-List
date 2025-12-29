@@ -1,16 +1,16 @@
- SIMPLE TO-DO LIST APP
+ THIS IS A SIMPLE TO-DO LIST APP
 A clean, beginner-friendly To-Do List web app built using HTML, CSS, and JavaScript.
 It lets you easily add, complete, and delete daily tasks all right in your browser!
 
                 FEATURES        
 
-➕ Add new tasks
+ Add new tasks
 
-✅ Mark tasks as completed (click to cross them out)
+Mark tasks as completed (click to cross them out)
 
-❌ Delete tasks instantly
+Delete tasks instantly
 
- Press “Enter” to add a task quickly
+Press “Enter” to add a task quickly
 
 
         WHAT I LEARNED
