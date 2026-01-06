@@ -20,6 +20,5 @@ Using CSS classes to change styles dynamically
 └── app.js         ← Functionality
 
 <img width="1251" height="635" alt="Screenshot 2025-10-29 020322" src="https://github.com/user-attachments/assets/9df00176-88f7-489f-9c36-510f174c9209" />
-Add filters (All / Completed / Pending)
 
-Add due dates or categories
+
